@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FibonacciTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-12-07T15:50:32" hostname="DESKTOP-31971KU" time="0.116">
+  <properties/>
+  <testcase name="fibonacci of 1 returns 1()" classname="FibonacciTest" time="0.055"/>
+  <testcase name="[1] 2, 1" classname="FibonacciTest" time="0.013"/>
+  <testcase name="[2] 3, 2" classname="FibonacciTest" time="0.0"/>
+  <testcase name="[3] 4, 3" classname="FibonacciTest" time="0.0"/>
+  <testcase name="[4] 5, 5" classname="FibonacciTest" time="0.001"/>
+  <testcase name="[5] 6, 8" classname="FibonacciTest" time="0.0"/>
+  <testcase name="[6] 7, 13" classname="FibonacciTest" time="0.001"/>
+  <testcase name="[7] 15, 610" classname="FibonacciTest" time="0.001"/>
+  <testcase name="[8] 20, 6765" classname="FibonacciTest" time="0.0"/>
+  <testcase name="fibonacci of 0 returns 0()" classname="FibonacciTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
